@@ -14,7 +14,7 @@ From taking “Molecular Genetics: Cells and Physiology” last year, I knew tha
 
 Here is the link: [https://www.pnas.org/doi/10.1073/pnas.0911610107#sec-1](https://www.pnas.org/doi/10.1073/pnas.0911610107#sec-1) 
 
-![realpaper](assets/realpaper2.png)
+![realpaper](/assets/realpaper2.png)
 
 
 # About the Paper
